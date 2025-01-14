@@ -1,0 +1,14 @@
+C:\Users\cagat\source\repos\Araba\Araba\bin\Debug\net8.0\Araba.exe
+C:\Users\cagat\source\repos\Araba\Araba\bin\Debug\net8.0\Araba.deps.json
+C:\Users\cagat\source\repos\Araba\Araba\bin\Debug\net8.0\Araba.runtimeconfig.json
+C:\Users\cagat\source\repos\Araba\Araba\bin\Debug\net8.0\Araba.dll
+C:\Users\cagat\source\repos\Araba\Araba\bin\Debug\net8.0\Araba.pdb
+C:\Users\cagat\source\repos\Araba\Araba\obj\Debug\net8.0\Araba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagat\source\repos\Araba\Araba\obj\Debug\net8.0\Araba.AssemblyInfoInputs.cache
+C:\Users\cagat\source\repos\Araba\Araba\obj\Debug\net8.0\Araba.AssemblyInfo.cs
+C:\Users\cagat\source\repos\Araba\Araba\obj\Debug\net8.0\Araba.csproj.CoreCompileInputs.cache
+C:\Users\cagat\source\repos\Araba\Araba\obj\Debug\net8.0\Araba.dll
+C:\Users\cagat\source\repos\Araba\Araba\obj\Debug\net8.0\refint\Araba.dll
+C:\Users\cagat\source\repos\Araba\Araba\obj\Debug\net8.0\Araba.pdb
+C:\Users\cagat\source\repos\Araba\Araba\obj\Debug\net8.0\Araba.genruntimeconfig.cache
+C:\Users\cagat\source\repos\Araba\Araba\obj\Debug\net8.0\ref\Araba.dll
